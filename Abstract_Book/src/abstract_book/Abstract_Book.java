@@ -11,8 +11,8 @@ class MyAbsBook extends AbsBookClass {
 
     @Override
     void display() {
-        System.out.println("Title: " + title
-                + "\nAuthor: " + author
+        System.out.println("Title: " + this.getTitle()
+                + "\nAuthor: " + this.getAuthor()
                 + "\nPrice: " + price);
     }
 
