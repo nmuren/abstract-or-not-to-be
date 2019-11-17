@@ -9,6 +9,7 @@ class MyAbsBook extends AbsBookClass {
         this.price = price;
     }
 
+    @Override
     void display() {
         System.out.println("Title: " + title
                 + "\nAuthor: " + author

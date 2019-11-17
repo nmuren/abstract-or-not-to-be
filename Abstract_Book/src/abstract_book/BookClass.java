@@ -2,8 +2,8 @@ package abstract_book;
 
 class BookClass {
 
-    private String title;
-    private String author;
+    private final String title;
+    private final String author;
 
     BookClass(String title, String author) {
         this.title = title;
