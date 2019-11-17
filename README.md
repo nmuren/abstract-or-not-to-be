@@ -1,5 +1,5 @@
 # Abstract or Not To Be
-In this application, there are 2 types of class being used for inheratance. One of them is abstract and the other one is plain old java object class. Both of them used for the same purpose with slight diffrences in the implementations.
+In this application, there are 2 types of class being used for inheratance. One of them is abstract and the other one is plain old java object class. Both of them used for the same purpose with slight differences in the implementations.
 
 ---
 
